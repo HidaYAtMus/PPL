@@ -2,7 +2,7 @@
 
 Nama Anggota kelompok 
 
-1. Hidayat Nur Musthofa   (13)
-2. Deby Dwi prasetyo      ()
-3. Bahrudin Cholid R.P.   ()
-4. Arifany R.S            ()
+1. Hidayat Nur Musthofa   
+2. Deby Dwi prasetyo      
+3. Bahrudin Cholid R.P.   
+4. Arifany R.S            
